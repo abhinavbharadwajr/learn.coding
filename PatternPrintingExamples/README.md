@@ -8,7 +8,7 @@
 String symbol = "";
 System.out.println("\n Enter Symbol of your Choice : ");
 symbol = input.next();
-rightTriangle(rows, symbol);
+<yourfunctionname>(rows, symbol);
 ```
 **and modify the functionas as :**
 
