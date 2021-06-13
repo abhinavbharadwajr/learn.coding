@@ -2,7 +2,7 @@ package PatternPrintingExamples;
 
 import java.util.*;
 
-public class RightTrinagle {
+public class RightTriangle {
 
     public static void rightTriangle(int n) 
     { 
@@ -14,7 +14,8 @@ public class RightTrinagle {
                 System.out.print("* ");         // print symbol
             }           
             System.out.println();               // ending line after each row
-        } 
+        }
+        System.out.println();
     } 
     public static void main(String args[]) 
     { 
