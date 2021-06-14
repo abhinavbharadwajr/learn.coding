@@ -4,7 +4,7 @@ import java.util.*;
 
 public class DownwardTriangle
 {
-    public static void dTrianglePrint(int n) {
+    public static void printDwnTriangle(int n) {
 
         System.out.println();                   // just to print a line after the user input
         for (int i=n-1; i>=0 ; i--) {
@@ -20,7 +20,7 @@ public class DownwardTriangle
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the number of Rows : "); //takes input from user
         rows = input.nextInt();
-        dTrianglePrint(rows);
+        printDwnTriangle(rows);
         input.close();
     }
 }

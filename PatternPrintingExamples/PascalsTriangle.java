@@ -4,7 +4,7 @@ import java.util.*;
 
 public class PascalsTriangle {
     
-    public static void rPTriangle(int n) {
+    public static void rPTriangle(int n) { // Function that prints Right Pascals Triangle
 
         // For the Top Half
         for (int i= 0; i<= n-1 ; i++)
@@ -24,7 +24,7 @@ public class PascalsTriangle {
         }
     }
 
-    public static void lPTriangle(int n) {
+    public static void lPTriangle(int n) { // Functions that print Left Pascals Triangle
 
         // For the Top half
         for (int i=1; i<=n ; i++) {

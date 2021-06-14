@@ -4,7 +4,7 @@ import java.util.*;
 
 public class DiamondPrinter {
 
-    public static void diamonPrinter(int n) {
+    public static void printDiamond(int n) {
         int i, j, space = 1;
         space = n - 1;
         for (j = 1; j<= n; j++) {
@@ -37,7 +37,7 @@ public class DiamondPrinter {
         Scanner input = new Scanner(System.in);
         System.out.print(" Enter the number of rows: ");
         rows = input.nextInt();
-        diamonPrinter(rows);
+        printDiamond(rows);
         input.close();        
     }
     

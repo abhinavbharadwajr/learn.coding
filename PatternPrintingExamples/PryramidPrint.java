@@ -4,7 +4,7 @@ import java.util.*;
 
 public class PryramidPrint
 {  
-    public static void pyramidPattern(int n) 
+    public static void printPyramid(int n) 
     {  
         for (int i=0; i<n; i++)                     //outer loop for number of rows(n)
         { 
@@ -25,7 +25,7 @@ public class PryramidPrint
         Scanner input = new Scanner(System.in);
         System.out.println("\nEnter number of Rows : ");
         rows = input.nextInt();
-        pyramidPattern(rows);
+        printPyramid(rows);
         input.close();
     } 
 }
