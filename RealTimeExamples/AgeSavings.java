@@ -1,15 +1,9 @@
 package RealTimeExamples;
 
-import java.io.*;
-import java.util.*;
-import java.util.Date;
-import java.util.concurrent.TimeUnit;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.time.temporal.ChronoUnit;
+import java.util.Scanner;
 
 public class AgeSavings {
 
@@ -58,8 +52,8 @@ public class AgeSavings {
         String dob = dobInput.next();
         LocalDate dobDateFormat = LocalDate.parse(dob, dtf);
         
-        int year = dobDateFormat.getYear();
-        System.out.println("\n Birth Year : "+year);
+        int birthYear = dobDateFormat.getYear();
+        System.out.println("\n Birth Year : "+birthYear);
         
         LocalDate currDateTime = LocalDate.now();
         String todaydate = currDateTime.format(dtf);
@@ -67,9 +61,9 @@ public class AgeSavings {
         int noofDaysOld = daysDifference(dob, todaydate);
         int noofYearsOld = yearsDifference(dob, todaydate);
                 
-        int savings = 0;
+        int savings = 0, yearCounter = birthYear;
 
-        if((year % 400 == 0) || ((year % 4 == 0) && (year % 100 != 0))) {
+        if((birthYear % 400 == 0) || ((birthYear % 4 == 0) && (birthYear % 100 != 0))) {
             savings = 366;
         } else {
             savings = 365;
@@ -77,13 +71,13 @@ public class AgeSavings {
 
         for (int counter=1; counter<noofYearsOld; counter++) {
 
-            if((year % 400 == 0) || ((year % 4 == 0) && (year % 100 != 0))) {
+            if((yearCounter % 400 == 0) || ((yearCounter % 4 == 0) && (yearCounter % 100 != 0))) {
                 savings = savings + (counter*366);
             }
             else {
                 savings = savings + (counter*365);
             }
-            year++;
+            yearCounter++;
 
         }
 
