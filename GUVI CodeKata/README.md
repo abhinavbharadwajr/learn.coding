@@ -14,6 +14,7 @@ Print the integer value
 ```
 Sample Input :
 2
+
 Sample Output :
 2
 ```
@@ -34,6 +35,7 @@ Print the integer list of integers separated by space
 ```
 Sample Input :
 2 3 4 5 6 7 8
+
 Sample Output :
 2 3 4 5 6 7 8
 ```
@@ -55,6 +57,7 @@ Print the taken input in the same format.
 Sample Input :
 5 3
 1 2 3 4 5
+
 Sample Output :
 5 3
 1 2 3 4 5
@@ -63,3 +66,4 @@ Sample Output :
 </details>
 
 [ArrayManip.py](https://github.com/abhinavbharadwajr/pythonexamples/GUVI%20CodeKata/ArrayManip.py)
+
