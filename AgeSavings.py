@@ -11,6 +11,9 @@ def convert(toDate):
 def numOfDays(date1, date2) :
     return (date1-date2).days
 
+def numOfMonths(date1, date2) :
+    return (date1-date2).months
+
 def numOfYears(date1, date2) :
     return relativedelta(date1, date2).years
 
@@ -21,6 +24,7 @@ birthYear = dobDate.year
 currDate = date.today()
 currYear = currDate.year
 numofDaysOld = numOfDays(currDate, dobDate)
+numofMonthsOld = numOfMonths(currDate, dobDate)
 numofYearsOld = numOfYears(currDate, dobDate)
 loopcounter = 1
 savings = 0
@@ -46,5 +50,6 @@ while(loopcounter<numofYearsOld) :
     loopcounter += 1
     
 print("\n You are ",numofDaysOld," Days Old!")
+print("\n You are ",numofMonthsOld," Months Old!")
 print("\n You are ",numofYearsOld," Years Old!")
 print("\n Your Total estimated Savings would be : Rs.",savings)
