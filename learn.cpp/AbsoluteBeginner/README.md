@@ -1,1 +1,1 @@
-../../absolutebeginner.md
+../.readmes/absolutebeginner.md
