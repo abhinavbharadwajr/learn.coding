@@ -52,7 +52,7 @@ public class AgeSavings {
         String dob = dobInput.next();
         LocalDate dobDateFormat = LocalDate.parse(dob, dtf);
         
-        //int birthYear = dobDateFormat.getYear();
+        int birthYear = dobDateFormat.getYear();
         //System.out.println("\n Birth Year : "+birthYear);
         
         LocalDate currDateTime = LocalDate.now();

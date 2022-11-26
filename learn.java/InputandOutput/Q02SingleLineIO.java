@@ -1,3 +1,5 @@
+package InputandOutput;
+
 import java.util.Scanner;
 
 public class Q02SingleLineIO {
@@ -6,5 +8,7 @@ public class Q02SingleLineIO {
         Scanner obj = new Scanner(System.in);
         String userInput = obj.nextLine();
         System.out.println(userInput);
+
+        obj.close();
     }
 }
