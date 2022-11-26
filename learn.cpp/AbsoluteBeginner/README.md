@@ -1,1 +1,1 @@
-../../absolutebeginner.md
+../../README.md
