@@ -21,7 +21,7 @@ Sample Output :
 173.21
 ```
 
-[Bash]() | [C/C++]() | [Java]() | [Python](https://github.com/abhinavbharadwajr/pythonexamples/blob/master/AbsoluteBeginner/Q01AreaofEqiTriangle.py)
+[Bash]() | [C/C++]() | [Java]() | [Python](https://github.com/abhinavbharadwajr/learn.coding/blob/master/learn.python/AbsoluteBeginner/Q01AreaofEqiTriangle.py)
 </p>
 </details>
 
@@ -47,7 +47,7 @@ Sample Output :
 2
 ```
 
-[Bash]() | [C/C++]() | [Java]() | [Python](https://github.com/abhinavbharadwajr/pythonexamples/blob/master/AbsoluteBeginner/Q02SumofNumbers.py)
+[Bash]() | [C/C++]() | [Java]() | [Python](https://github.com/abhinavbharadwajr/learn.coding/blob/master/learn.python/AbsoluteBeginner/Q01AreaofEqiTriangle.pQ02SumofNumbers.py)
 </p>
 </details>
 
@@ -71,7 +71,7 @@ Sample Output :
 200000
 ```
 
-[Bash]() | [C/C++]() | [Java]() | [Python](https://github.com/abhinavbharadwajr/pythonexamples/blob/master/AbsoluteBeginner/Q03UnitConversion.py)
+[Bash]() | [C/C++]() | [Java]() | [Python](https://github.com/abhinavbharadwajr/learn.coding/blob/master/learn.python/AbsoluteBeginner/Q01AreaofEqiTriangle.pQ03UnitConversion.py)
 </p>
 </details>
 
@@ -96,7 +96,7 @@ Sample Output :
 324
 ```
 
-[Bash]() | [C/C++]() | [Java]() | [Python](https://github.com/abhinavbharadwajr/pythonexamples/blob/master/AbsoluteBeginner/Q04NumberSeries.py)
+[Bash]() | [C/C++]() | [Java]() | [Python](https://github.com/abhinavbharadwajr/learn.coding/blob/master/learn.python/AbsoluteBeginner/Q01AreaofEqiTriangle.pQ04NumberSeries.py)
 </p>
 </details>
 
@@ -122,7 +122,7 @@ Sample Output :
 6
 ```
 
-[Bash]() | [C/C++]() | [Java]() | [Python](https://github.com/abhinavbharadwajr/pythonexamples/blob/master/AbsoluteBeginner/Q05AreaofRectangle.py)
+[Bash]() | [C/C++]() | [Java]() | [Python](https://github.com/abhinavbharadwajr/learn.coding/blob/master/learn.python/AbsoluteBeginner/Q01AreaofEqiTriangle.pQ05AreaofRectangle.py)
 </p>
 </details>
 
@@ -149,7 +149,7 @@ Sample Output :
 100.00
 ```
 
-[Bash]() | [C/C++]() | [Java]() | [Python](https://github.com/abhinavbharadwajr/pythonexamples/blob/master/AbsoluteBeginner/Q06SimpleInterest.py)
+[Bash]() | [C/C++]() | [Java]() | [Python](https://github.com/abhinavbharadwajr/learn.coding/blob/master/learn.python/AbsoluteBeginner/Q01AreaofEqiTriangle.pQ06SimpleInterest.py)
 </p>
 </details>
 
@@ -172,7 +172,7 @@ Sample Output :
 2
 ```
 
-[Bash]() | [C/C++]() | [Java]() | [Python](https://github.com/abhinavbharadwajr/pythonexamples/blob/master/AbsoluteBeginner/Q07Factorial.py)
+[Bash]() | [C/C++]() | [Java]() | [Python](https://github.com/abhinavbharadwajr/learn.coding/blob/master/learn.python/AbsoluteBeginner/Q01AreaofEqiTriangle.pQ07Factorial.py)
 </p>
 </details>
 
@@ -195,7 +195,7 @@ Sample Output :
 8
 ```
 
-[Bash]() | [C/C++]() | [Java]() | [Python](https://github.com/abhinavbharadwajr/pythonexamples/blob/master/AbsoluteBeginner/Q08CubeofaNumber.py)
+[Bash]() | [C/C++]() | [Java]() | [Python](https://github.com/abhinavbharadwajr/learn.coding/blob/master/learn.python/AbsoluteBeginner/Q01AreaofEqiTriangle.pQ08CubeofaNumber.py)
 </p>
 </details>
 
@@ -220,7 +220,7 @@ Sample Output :
 Y
 ```
 
-[Bash]() | [C/C++]() | [Java]() | [Python](https://github.com/abhinavbharadwajr/pythonexamples/blob/master/AbsoluteBeginner/Q09LeapYearCheck.py)
+[Bash]() | [C/C++]() | [Java]() | [Python](https://github.com/abhinavbharadwajr/learn.coding/blob/master/learn.python/AbsoluteBeginner/Q01AreaofEqiTriangle.pQ09LeapYearCheck.py)
 </p>
 </details>
 
@@ -245,7 +245,7 @@ Sample Output :
 31
 ```
 
-[Bash]() | [C/C++]() | [Java]() | [Python](https://github.com/abhinavbharadwajr/pythonexamples/blob/master/AbsoluteBeginner/Q10DaysintheMonth.py)
+[Bash]() | [C/C++]() | [Java]() | [Python](https://github.com/abhinavbharadwajr/learn.coding/blob/master/learn.python/AbsoluteBeginner/Q01AreaofEqiTriangle.pQ10DaysintheMonth.py)
 </p>
 </details>
 
@@ -270,7 +270,7 @@ Sample Output :
 53.60
 ```
 
-[Bash]() | [C/C++]() | [Java]() | [Python](https://github.com/abhinavbharadwajr/pythonexamples/blob/master/AbsoluteBeginner/Q11CelciusToFahrenheit.py)
+[Bash]() | [C/C++]() | [Java]() | [Python](https://github.com/abhinavbharadwajr/learn.coding/blob/master/learn.python/AbsoluteBeginner/Q01AreaofEqiTriangle.pQ11CelciusToFahrenheit.py)
 </p>
 </details>
 
@@ -295,7 +295,7 @@ Sample Output :
 2
 ```
 
-[Bash]() | [C/C++]() | [Java]() | [Python](https://github.com/abhinavbharadwajr/pythonexamples/blob/master/AbsoluteBeginner/Q12PrintLoop.py)
+[Bash]() | [C/C++]() | [Java]() | [Python](https://github.com/abhinavbharadwajr/learn.coding/blob/master/learn.python/AbsoluteBeginner/Q01AreaofEqiTriangle.pQ12PrintLoop.py)
 </p>
 </details>
 

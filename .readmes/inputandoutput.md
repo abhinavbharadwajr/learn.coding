@@ -19,7 +19,7 @@ Sample Output :
 2
 ```
 
-[Bash]() | [C/C++]() | [Java](https://github.com/abhinavbharadwajr/guvicodekata/blob/master/InputandOutput/codebase.java/Q01SimpleIO.java) | [Python](https://github.com/abhinavbharadwajr/pythonexamples/blob/master/AbsoluteBeginner/Q01SimpleIO.py)
+[Bash]() | [C/C++]() | [Java](https://github.com/abhinavbharadwajr/guvicodekata/blob/master/learn.java/InputandOutput/Q01SimpleIO.java) | [Python](https://github.com/abhinavbharadwajr/learn.coding/blob/master/learn.python/InputandOutput/Q01SimpleIO.py)
 </p>
 </details>
 
@@ -40,7 +40,7 @@ Sample Output :
 2 3 4 5 6 7 8
 ```
 
-[Bash]() | [C/C++]() | [Java](https://github.com/abhinavbharadwajr/guvicodekata/blob/master/InputandOutput/codebase.java/Q02SingleLineIO.java) | [Python](https://github.com/abhinavbharadwajr/pythonexamples/blob/master/AbsoluteBeginner/Q02SingleLineIO.py)
+[Bash]() | [C/C++]() | [Java](https://github.com/abhinavbharadwajr/guvicodekata/blob/master/learn.java/InputandOutput/Q02SingleLineIO.java) | [Python](https://github.com/abhinavbharadwajr/learn.coding/blob/master/learn.python/InputandOutput/Q02SingleLineIO.py)
 </p>
 </details>
 
@@ -63,7 +63,7 @@ Sample Output :
 1 2 3 4 5
 ```
 
-[Bash]() | [C/C++]() | [Java](https://github.com/abhinavbharadwajr/guvicodekata/blob/master/InputandOutput/codebase.java/Q03ArrayManip.java) | [Python](https://github.com/abhinavbharadwajr/pythonexamples/blob/master/AbsoluteBeginner/Q03ArrayManip.py)
+[Bash]() | [C/C++]() | [Java](https://github.com/abhinavbharadwajr/guvicodekata/blob/master/learn.java/InputandOutput/Q03ArrayManip.java) | [Python](https://github.com/abhinavbharadwajr/learn.coding/blob/master/learn.python/InputandOutput/Q03ArrayManip.py)
 </p>
 </details>
 
@@ -88,7 +88,7 @@ Sample Output :
 2 4
 ```
 
-[Bash]() | [C/C++]() | [Java](https://github.com/abhinavbharadwajr/guvicodekata/blob/master/InputandOutput/codebase.java/Q04MultilineIO.java) | [Python](https://github.com/abhinavbharadwajr/pythonexamples/blob/master/AbsoluteBeginner/Q04MultiLineIO.py)
+[Bash]() | [C/C++]() | [Java](https://github.com/abhinavbharadwajr/guvicodekata/blob/master/learn.java/InputandOutput/Q04MultilineIO.java) | [Python](https://github.com/abhinavbharadwajr/learn.coding/blob/master/learn.python/InputandOutput/Q04MultiLineIO.py)
 </p>
 </details>
 
@@ -111,7 +111,7 @@ Sample Output :
 2 4 5
 ```
 
-[Bash]() | [C/C++]() | [Java](https://github.com/abhinavbharadwajr/guvicodekata/blob/master/InputandOutput/codebase.java/Q05MultiLinetoSingleLine.java) | [Python](https://github.com/abhinavbharadwajr/pythonexamples/blob/master/AbsoluteBeginner/Q05MultiLinetoSingleLineIO.py)
+[Bash]() | [C/C++]() | [Java](https://github.com/abhinavbharadwajr/guvicodekata/blob/master/learn.java/InputandOutput/Q05MultiLinetoSingleLine.java) | [Python](https://github.com/abhinavbharadwajr/learn.coding/blob/master/learn.python/InputandOutput/Q05MultiLinetoSingleLineIO.py)
 </p>
 </details>
 
@@ -138,7 +138,7 @@ Sample Output :
 
 > Note : this is Pretty much similar to Q4
 
-[Bash]() | [C/C++]() | [Java](https://github.com/abhinavbharadwajr/guvicodekata/blob/master/InputandOutput/codebase.java/Q04MultilineIO.java) | [Python](https://github.com/abhinavbharadwajr/pythonexamples/blob/master/AbsoluteBeginner/Q04MultiLineIO.py)
+[Bash]() | [C/C++]() | [Java](https://github.com/abhinavbharadwajr/guvicodekata/blob/master/learn.java/InputandOutput/Q04MultilineIO.java) | [Python](https://github.com/abhinavbharadwajr/learn.coding/blob/master/learn.python/InputandOutput/Q04MultiLineIO.py)
 </p>
 </details>
 
@@ -159,7 +159,7 @@ Sample Output :
 g u v i
 ```
 
-[Bash]() | [C/C++]() | [Java](https://github.com/abhinavbharadwajr/guvicodekata/blob/master/InputandOutput/codebase.java/Q07StringManip.java) | [Python](https://github.com/abhinavbharadwajr/pythonexamples/blob/master/AbsoluteBeginner/Q07StringManip.py)
+[Bash]() | [C/C++]() | [Java](https://github.com/abhinavbharadwajr/guvicodekata/blob/master/learn.java/InputandOutput/Q07StringManip.java) | [Python](https://github.com/abhinavbharadwajr/learn.coding/blob/master/learn.python/InputandOutput/Q07StringManip.py)
 </p>
 </details>
 
@@ -182,7 +182,7 @@ Sample Output :
 7.8
 ```
 
-[Bash]() | [C/C++]() | [Java](https://github.com/abhinavbharadwajr/guvicodekata/blob/master/InputandOutput/codebase.java/Q08MultiLineManip.java) | [Python](https://github.com/abhinavbharadwajr/pythonexamples/blob/master/AbsoluteBeginner/Q08MultiLineManip.py)
+[Bash]() | [C/C++]() | [Java](https://github.com/abhinavbharadwajr/guvicodekata/blob/master/learn.java/InputandOutput/Q08MultiLineManip.java) | [Python](https://github.com/abhinavbharadwajr/learn.coding/blob/master/learn.python/InputandOutput/Q08MultiLineManip.py)
 </p>
 </details>
 
@@ -210,7 +210,7 @@ e
 k
 ```
 
-[Bash]() | [C/C++]() | [Java](https://github.com/abhinavbharadwajr/guvicodekata/blob/master/InputandOutput/codebase.java/Q09SingleLinetoMultiLine.java) | [Python](https://github.com/abhinavbharadwajr/pythonexamples/blob/master/AbsoluteBeginner/Q09SingleLinetoMultiLine.py)
+[Bash]() | [C/C++]() | [Java](https://github.com/abhinavbharadwajr/guvicodekata/blob/master/learn.java/InputandOutput/Q09SingleLinetoMultiLine.java) | [Python](https://github.com/abhinavbharadwajr/learn.coding/blob/master/learn.python/InputandOutput/Q09SingleLinetoMultiLine.py)
 </p>
 </details>
 
@@ -231,6 +231,6 @@ Sample Output :
 g,u,v,i
 ```
 
-[Bash]() | [C/C++]() | [Java](https://github.com/abhinavbharadwajr/guvicodekata/blob/master/InputandOutput/codebase.java/Q10StringManip2.java) | [Python](https://github.com/abhinavbharadwajr/pythonexamples/blob/master/AbsoluteBeginner/Q10StringManip2.py)
+[Bash]() | [C/C++]() | [Java](https://github.com/abhinavbharadwajr/guvicodekata/blob/master/learn.java/InputandOutput/Q10StringManip2.java) | [Python](https://github.com/abhinavbharadwajr/learn.coding/blob/master/learn.python/InputandOutput/Q10StringManip2.py)
 </p>
 </details>
